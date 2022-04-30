@@ -1,0 +1,4 @@
+Init Command:
+    expo init folderName -> select blank for easy way
+                         -> select bare for complex and more flexible way
+
