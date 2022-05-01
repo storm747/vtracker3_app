@@ -1,6 +1,6 @@
 Init Command:
 
-    npm i -g expo-cli
+    npm i -g expo-cli -> to install the environment
     
     expo init folderName -> select blank for easy way
                          -> select bare for complex and more flexible way
